@@ -26,23 +26,21 @@
 
 ---
 
-## ⚡ About Me
+### ⚡ About Me
 
 ```javascript
 const tanjim = {
-  name:       "Tanjim Fayes Nuhil",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-  roles:      ["Full Stack MERN Developer", "Data Analyst", "Data Scientist"],
-  education:  "BSc in Computer Science & Engineering",
-  passion:    "Building systems that solve real problems at scale",
-  
+  name: "Tanjim Fayes Nuhil",
+  location: "Dhaka, Bangladesh 🇧🇩",
+  roles: ["Full Stack MERN Developer", "Data Analyst", "Data Scientist"],
+  education: "BSc in Computer Science & Engineering",
+  passion: "Building systems that solve real problems at scale",
   currentlyWorking: [
     "Smart food-tech platform — Khadok",
     "Blockchain-based identity systems",
-    "University review ecosystems",
+    "University review ecosystems"
   ],
-
-  funFact: "I debug with coffee and deploy with confidence ☕",
+  funFact: "I debug with coffee and deploy with confidence ☕"
 };
 ```
 
