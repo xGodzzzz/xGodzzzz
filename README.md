@@ -26,7 +26,7 @@
 
 ### ⚡ About Me
 
-```javascript
+javascript
 const tanjim = {
   name: "Tanjim Fayes Nuhil",
   location: "Dhaka, Bangladesh 🇧🇩",
@@ -40,7 +40,7 @@ const tanjim = {
   ],
   funFact: "I debug with coffee and deploy with confidence ☕"
 };
-```
+
 
 > "The best code is not the most clever — it's the one that ships, scales, and survives."
 
