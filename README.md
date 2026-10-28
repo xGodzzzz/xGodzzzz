@@ -24,8 +24,6 @@
 
 </div>
 
----
-
 ### ⚡ About Me
 
 ```javascript
@@ -44,9 +42,7 @@ const tanjim = {
 };
 ```
 
-> *"The best code is not the most clever — it's the one that ships, scales, and survives."*
-
----
+> "The best code is not the most clever — it's the one that ships, scales, and survives."
 
 ## 🧰 Tech Arsenal
 
